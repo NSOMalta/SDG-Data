@@ -1,7 +1,15 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Description,Unit measure,Value
+2012,Percentage (%) of gross domestic product (GDP),Research and Development expenditure,Percentage (%),0.826748844
+2013,Percentage (%) of gross domestic product (GDP),Research and Development expenditure,Percentage (%),0.77248699
+2014,Percentage (%) of gross domestic product (GDP),Research and Development expenditure,Percentage (%),0.711618528
+2015,Percentage (%) of gross domestic product (GDP),Research and Development expenditure,Percentage (%),0.742529193
+2016,Percentage (%) of gross domestic product (GDP),Research and Development expenditure,Percentage (%),0.567773375
+2017,Percentage (%) of gross domestic product (GDP),Research and Development expenditure,Percentage (%),0.584237473
+2018,Percentage (%) of gross domestic product (GDP),Research and Development expenditure,Percentage (%),0.571318218
+2012,Public Expenditure on R&D,Research and Development expenditure,Million EUR,59.233628
+2013,Public Expenditure on R&D,Research and Development expenditure,Million EUR,59.055603
+2014,Public Expenditure on R&D,Research and Development expenditure,Million EUR,60.539338
+2015,Public Expenditure on R&D,Research and Development expenditure,Million EUR,71.49103
+2016,Public Expenditure on R&D,Research and Development expenditure,Million EUR,58.701783
+2017,Public Expenditure on R&D,Research and Development expenditure,Million EUR,65.927714
+2018,Public Expenditure on R&D,Research and Development expenditure,Million EUR,70.650999
