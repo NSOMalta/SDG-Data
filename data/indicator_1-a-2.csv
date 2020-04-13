@@ -1,7 +1,153 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Area of spending category,Unit measure,Value
+2000,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),22.27417332
+2001,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),23.52881394
+2002,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.4174388
+2003,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.52036905
+2004,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.36397175
+2005,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.5500087
+2006,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.77459416
+2007,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.09206527
+2008,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),23.75323979
+2009,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.67150269
+2010,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.60617682
+2011,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.95113704
+2012,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),25.3366612
+2013,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),25.24710833
+2014,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),24.26077888
+2015,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),22.85550998
+2016,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),22.23127981
+2017,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),21.72084116
+2018,Percentage (%) of gross domestic product (GDP),Essential Services,Percentage (%),21.47743983
+2000,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),4.742280175
+2001,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),4.83400003
+2002,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.429574599
+2003,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.541907793
+2004,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.653645207
+2005,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),6.001567809
+2006,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),6.045540455
+2007,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.482058357
+2008,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.265094795
+2009,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.131631239
+2010,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.253904534
+2011,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.418277645
+2012,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.513328663
+2013,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.685866733
+2014,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.690341737
+2015,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.595799922
+2016,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.39694719
+2017,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.441375243
+2018,Percentage (%) of gross domestic product (GDP),Health,Percentage (%),5.34801636
+2000,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.140220649
+2001,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.676462324
+2002,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.845733723
+2003,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.884004774
+2004,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.519334511
+2005,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.39627913
+2006,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.463751671
+2007,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.229606432
+2008,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.178706865
+2009,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.35763201
+2010,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.624273922
+2011,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.720330187
+2012,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.800435424
+2013,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.772160151
+2014,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.518476732
+2015,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.287429555
+2016,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.223441902
+2017,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),4.942988182
+2018,Percentage (%) of gross domestic product (GDP),Education,Percentage (%),5.214142656
+2000,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),4.742280175
+2001,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),4.83400003
+2002,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.429574599
+2003,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.541907793
+2004,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.653645207
+2005,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),6.001567809
+2006,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),6.045540455
+2007,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.482058357
+2008,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.265094795
+2009,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.131631239
+2010,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.253904534
+2011,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.418277645
+2012,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.513328663
+2013,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.685866733
+2014,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.690341737
+2015,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.595799922
+2016,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.39694719
+2017,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.441375243
+2018,Percentage (%) of gross domestic product (GDP),Social protection,Percentage (%),5.34801636
+2000,Government Expenditure,Essential Services,Million EUR,921.4825503
+2001,Government Expenditure,Essential Services,Million EUR,1003.033338
+2002,Government Expenditure,Essential Services,Million EUR,1101.714839
+2003,Government Expenditure,Essential Services,Million EUR,1166.924363
+2004,Government Expenditure,Essential Services,Million EUR,1182.139909
+2005,Government Expenditure,Essential Services,Million EUR,1264.079948
+2006,Government Expenditure,Essential Services,Million EUR,1334.359642
+2007,Government Expenditure,Essential Services,Million EUR,1387.221118
+2008,Government Expenditure,Essential Services,Million EUR,1455.836067
+2009,Government Expenditure,Essential Services,Million EUR,1514.58355
+2010,Government Expenditure,Essential Services,Million EUR,1624.00767
+2011,Government Expenditure,Essential Services,Million EUR,1705.607331
+2012,Government Expenditure,Essential Services,Million EUR,1815.282083
+2013,Government Expenditure,Essential Services,Million EUR,1930.107854
+2014,Government Expenditure,Essential Services,Million EUR,2063.930934
+2015,Government Expenditure,Essential Services,Million EUR,2200.538329
+2016,Government Expenditure,Essential Services,Million EUR,2298.480029
+2017,Government Expenditure,Essential Services,Million EUR,2451.067365
+2018,Government Expenditure,Essential Services,Million EUR,2655.967432
+2000,Government Expenditure,Health,Million EUR,196.1881308
+2001,Government Expenditure,Health,Million EUR,206.0734213
+2002,Government Expenditure,Health,Million EUR,244.9824059
+2003,Government Expenditure,Health,Million EUR,263.7393919
+2004,Government Expenditure,Health,Million EUR,274.3148655
+2005,Government Expenditure,Health,Million EUR,309.0207265
+2006,Government Expenditure,Health,Million EUR,325.6128089
+2007,Government Expenditure,Health,Million EUR,315.6569202
+2008,Government Expenditure,Health,Million EUR,322.69766
+2009,Government Expenditure,Health,Million EUR,315.0308418
+2010,Government Expenditure,Health,Million EUR,346.7576992
+2011,Government Expenditure,Health,Million EUR,370.3820814
+2012,Government Expenditure,Health,Million EUR,395.0104815
+2013,Government Expenditure,Health,Million EUR,434.6769496
+2014,Government Expenditure,Health,Million EUR,484.0929631
+2015,Government Expenditure,Health,Million EUR,538.7660227
+2016,Government Expenditure,Health,Million EUR,557.9874591
+2017,Government Expenditure,Health,Million EUR,614.0267396
+2018,Government Expenditure,Health,Million EUR,661.3524421
+2000,Government Expenditure,Education,Million EUR,212.6509282
+2001,Government Expenditure,Education,Million EUR,241.9875889
+2002,Government Expenditure,Education,Million EUR,263.7595056
+2003,Government Expenditure,Education,Million EUR,280.0197872
+2004,Government Expenditure,Education,Million EUR,267.7981105
+2005,Government Expenditure,Education,Million EUR,277.8544124
+2006,Government Expenditure,Education,Million EUR,294.277665
+2007,Government Expenditure,Education,Million EUR,301.1207384
+2008,Government Expenditure,Education,Million EUR,317.4029438
+2009,Government Expenditure,Education,Million EUR,328.9050291
+2010,Government Expenditure,Education,Million EUR,371.2020789
+2011,Government Expenditure,Education,Million EUR,391.0297589
+2012,Government Expenditure,Education,Million EUR,415.5806646
+2013,Government Expenditure,Education,Million EUR,441.2739666
+2014,Government Expenditure,Education,Million EUR,469.4719362
+2015,Government Expenditure,Education,Million EUR,509.0759911
+2016,Government Expenditure,Education,Million EUR,540.048841
+2017,Government Expenditure,Education,Million EUR,557.7867325
+2018,Government Expenditure,Education,Million EUR,644.7972008
+2000,Government Expenditure,Social protection,Million EUR,512.6434912
+2001,Government Expenditure,Social protection,Million EUR,554.9723283
+2002,Government Expenditure,Social protection,Million EUR,592.972927
+2003,Government Expenditure,Social protection,Million EUR,623.1651842
+2004,Government Expenditure,Social protection,Million EUR,640.0269335
+2005,Government Expenditure,Social protection,Million EUR,677.2048093
+2006,Government Expenditure,Social protection,Million EUR,714.4691677
+2007,Government Expenditure,Social protection,Million EUR,770.4434598
+2008,Government Expenditure,Social protection,Million EUR,815.7354632
+2009,Government Expenditure,Social protection,Million EUR,870.6476794
+2010,Government Expenditure,Social protection,Million EUR,906.0478921
+2011,Government Expenditure,Social protection,Million EUR,944.1954903
+2012,Government Expenditure,Social protection,Million EUR,1004.690937
+2013,Government Expenditure,Social protection,Million EUR,1054.156937
+2014,Government Expenditure,Social protection,Million EUR,1110.366035
+2015,Government Expenditure,Social protection,Million EUR,1152.696315
+2016,Government Expenditure,Social protection,Million EUR,1200.443729
+2017,Government Expenditure,Social protection,Million EUR,1279.253893
+2018,Government Expenditure,Social protection,Million EUR,1349.817789
