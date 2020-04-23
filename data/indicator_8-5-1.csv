@@ -1,7 +1,11 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Variable,Sex,Unit of measure,Value
+2014,mean hourly earnings,Males,Euro,10.35
+2015,mean hourly earnings,Males,Euro,10.87620153
+2016,mean hourly earnings,Males,Euro,11.9
+2017,mean hourly earnings,Males,Euro,12.2
+2018,mean hourly earnings,Males,Euro,12.5969
+2014,mean hourly earnings,Females,Euro,9.25
+2015,mean hourly earnings,Females,Euro,10.1106196
+2016,mean hourly earnings,Females,Euro,11
+2017,mean hourly earnings,Females,Euro,11.1
+2018,mean hourly earnings,Females,Euro,11.463179
