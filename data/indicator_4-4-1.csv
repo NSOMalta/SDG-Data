@@ -1,7 +1,63 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Individuals' level of digital skills,Sex,Unit of measure,Value
+2015,low overall digital skills,Total,Percentage (%),23
+2016,low overall digital skills,Total,Percentage (%),27
+2017,low overall digital skills,Total,Percentage (%),23
+2019,low overall digital skills,Total,Percentage (%),29
+2015,basic overall digital skills,Total,Percentage (%),18
+2016,basic overall digital skills,Total,Percentage (%),18
+2017,basic overall digital skills,Total,Percentage (%),18
+2019,basic overall digital skills,Total,Percentage (%),18
+2015,above basic overall digital skills,Total,Percentage (%),35
+2016,above basic overall digital skills,Total,Percentage (%),32
+2017,above basic overall digital skills,Total,Percentage (%),39
+2019,above basic overall digital skills,Total,Percentage (%),38
+2015,basic or above basic overall digital skills,Total,Percentage (%),53
+2016,basic or above basic overall digital skills,Total,Percentage (%),50
+2017,basic or above basic overall digital skills,Total,Percentage (%),57
+2019,basic or above basic overall digital skills,Total,Percentage (%),56
+2015,no overall digital skills,Total,Percentage (%),1
+2016,no overall digital skills,Total,Percentage (%),1
+2017,no overall digital skills,Total,Percentage (%),1
+2019,no overall digital skills,Total,Percentage (%),1
+2015,low overall digital skills,Males,Percentage (%),21
+2016,low overall digital skills,Males,Percentage (%),26
+2017,low overall digital skills,Males,Percentage (%),23
+2019,low overall digital skills,Males,Percentage (%),29
+2015,basic overall digital skills,Males,Percentage (%),18
+2016,basic overall digital skills,Males,Percentage (%),18
+2017,basic overall digital skills,Males,Percentage (%),17
+2019,basic overall digital skills,Males,Percentage (%),17
+2015,above basic overall digital skills,Males,Percentage (%),37
+2016,above basic overall digital skills,Males,Percentage (%),32
+2017,above basic overall digital skills,Males,Percentage (%),40
+2019,above basic overall digital skills,Males,Percentage (%),40
+2015,basic or above basic overall digital skills,Males,Percentage (%),56
+2016,basic or above basic overall digital skills,Males,Percentage (%),50
+2017,basic or above basic overall digital skills,Males,Percentage (%),57
+2019,basic or above basic overall digital skills,Males,Percentage (%),57
+2015,no overall digital skills,Males,Percentage (%),1
+2016,no overall digital skills,Males,Percentage (%),2
+2017,no overall digital skills,Males,Percentage (%),2
+2019,no overall digital skills,Males,Percentage (%),0
+2015,low overall digital skills,Females,Percentage (%),25
+2016,low overall digital skills,Females,Percentage (%),28
+2017,low overall digital skills,Females,Percentage (%),23
+2019,low overall digital skills,Females,Percentage (%),30
+2015,basic overall digital skills,Females,Percentage (%),18
+2016,basic overall digital skills,Females,Percentage (%),17
+2017,basic overall digital skills,Females,Percentage (%),18
+2019,basic overall digital skills,Females,Percentage (%),18
+2015,above basic overall digital skills,Females,Percentage (%),32
+2016,above basic overall digital skills,Females,Percentage (%),32
+2017,above basic overall digital skills,Females,Percentage (%),38
+2019,above basic overall digital skills,Females,Percentage (%),37
+2015,basic or above basic overall digital skills,Females,Percentage (%),49
+2016,basic or above basic overall digital skills,Females,Percentage (%),49
+2017,basic or above basic overall digital skills,Females,Percentage (%),56
+2019,basic or above basic overall digital skills,Females,Percentage (%),55
+2015,no overall digital skills,Females,Percentage (%),1
+2016,no overall digital skills,Females,Percentage (%),1
+2017,no overall digital skills,Females,Percentage (%),0
+2019,no overall digital skills,Females,Percentage (%),1
+,,,,
+Note: Data referes to individuals aged 16-74,,,,
