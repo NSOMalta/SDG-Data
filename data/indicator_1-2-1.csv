@@ -1,85 +1,85 @@
-Year,Variable ,Category ,Unit of measure,Value
-2005,At risk of povery rate ,Total ,Percentage (%),14.3
-2006,At risk of povery rate ,Total ,Percentage (%),14.2 
-2007,At risk of povery rate ,Total ,Percentage (%),15.1 
-2008,At risk of povery rate ,Total ,Percentage (%),15.3 
-2009,At risk of povery rate ,Total ,Percentage (%),14.9 
-2010,At risk of povery rate ,Total ,Percentage (%),15.5 
-2011,At risk of povery rate ,Total ,Percentage (%),15.6 
-2012,At risk of povery rate ,Total ,Percentage (%),15.1 
-2013,At risk of povery rate ,Total ,Percentage (%),15.8 
-2014,At risk of povery rate ,Total ,Percentage (%),15.8 
-2015,At risk of povery rate ,Total ,Percentage (%),16.6 
-2016,At risk of povery rate ,Total ,Percentage (%),16.5 
-2017,At risk of povery rate ,Total ,Percentage (%),16.7 
-2018,At risk of povery rate ,Total ,Percentage (%),16.8 
-2005,At risk of povery rate ,Males ,Percentage (%),13.9
-2006,At risk of povery rate ,Males ,Percentage (%),13.5 
-2007,At risk of povery rate ,Males ,Percentage (%),14.7 
-2008,At risk of povery rate ,Males ,Percentage (%),13.9 
-2009,At risk of povery rate ,Males ,Percentage (%),14.3 
-2010,At risk of povery rate ,Males ,Percentage (%),14.8 
-2011,At risk of povery rate ,Males ,Percentage (%),15.0 
-2012,At risk of povery rate ,Males ,Percentage (%),14.4 
-2013,At risk of povery rate ,Males ,Percentage (%),15.4 
-2014,At risk of povery rate ,Males ,Percentage (%),15.7 
-2015,At risk of povery rate ,Males ,Percentage (%),16.3 
-2016,At risk of povery rate ,Males ,Percentage (%),16.5 
-2017,At risk of povery rate ,Males ,Percentage (%),16.1 
-2018,At risk of povery rate ,Males ,Percentage (%),15.6
-2005,At risk of povery rate ,Females ,Percentage (%),14.8
-2006,At risk of povery rate ,Females ,Percentage (%),14.9 
-2007,At risk of povery rate ,Females ,Percentage (%),15.5 
-2008,At risk of povery rate ,Females ,Percentage (%),16.7 
-2009,At risk of povery rate ,Females ,Percentage (%),15.5 
-2010,At risk of povery rate ,Females ,Percentage (%),16.2 
-2011,At risk of povery rate ,Females ,Percentage (%),16.1 
-2012,At risk of povery rate ,Females ,Percentage (%),15.8 
-2013,At risk of povery rate ,Females ,Percentage (%),16.1 
-2014,At risk of povery rate ,Females ,Percentage (%),16.0 
-2015,At risk of povery rate ,Females ,Percentage (%),16.9 
-2016,At risk of povery rate ,Females ,Percentage (%),16.5 
-2017,At risk of povery rate ,Females ,Percentage (%),17.3 
-2018,At risk of povery rate ,Females ,Percentage (%),18.1
-2005,At risk of povery rate ,Less than 18 years,Percentage (%),17.6
-2006,At risk of povery rate ,Less than 18 years,Percentage (%),17.6 
-2007,At risk of povery rate ,Less than 18 years,Percentage (%),19.8 
-2008,At risk of povery rate ,Less than 18 years,Percentage (%),20.4 
-2009,At risk of povery rate ,Less than 18 years,Percentage (%),21.2 
-2010,At risk of povery rate ,Less than 18 years,Percentage (%),22.1 
-2011,At risk of povery rate ,Less than 18 years,Percentage (%),23.0 
-2012,At risk of povery rate ,Less than 18 years,Percentage (%),23.1 
-2013,At risk of povery rate ,Less than 18 years,Percentage (%),24.5 
-2014,At risk of povery rate ,Less than 18 years,Percentage (%),24.6 
-2015,At risk of povery rate ,Less than 18 years,Percentage (%),23.4 
-2016,At risk of povery rate ,Less than 18 years,Percentage (%),20.9 
-2017,At risk of povery rate ,Less than 18 years,Percentage (%),21.2 
-2018,At risk of povery rate ,Less than 18 years,Percentage (%),21.4
-2005,At risk of povery rate ,From 18 to 64 years ,Percentage (%),11.4
-2006,At risk of povery rate ,From 18 to 64 years ,Percentage (%),11.2 
-2007,At risk of povery rate ,From 18 to 64 years ,Percentage (%),12.6 
-2008,At risk of povery rate ,From 18 to 64 years ,Percentage (%),12.0 
-2009,At risk of povery rate ,From 18 to 64 years ,Percentage (%),12.1 
-2010,At risk of povery rate ,From 18 to 64 years ,Percentage (%),13.1 
-2011,At risk of povery rate ,From 18 to 64 years ,Percentage (%),13.1 
-2012,At risk of povery rate ,From 18 to 64 years ,Percentage (%),12.4 
-2013,At risk of povery rate ,From 18 to 64 years ,Percentage (%),13.5 
-2014,At risk of povery rate ,From 18 to 64 years ,Percentage (%),13.1 
-2015,At risk of povery rate ,From 18 to 64 years ,Percentage (%),13.4 
-2016,At risk of povery rate ,From 18 to 64 years ,Percentage (%),13.3 
-2017,At risk of povery rate ,From 18 to 64 years ,Percentage (%),13.2 
-2018,At risk of povery rate ,From 18 to 64 years ,Percentage (%),13.3
-2005,At risk of povery rate ,65 years and over ,Percentage (%),23.3
-2006,At risk of povery rate ,65 years and over ,Percentage (%),23.5 
-2007,At risk of povery rate ,65 years and over ,Percentage (%),20.3 
-2008,At risk of povery rate ,65 years and over ,Percentage (%),24.3 
-2009,At risk of povery rate ,65 years and over ,Percentage (%),19.7 
-2010,At risk of povery rate ,65 years and over ,Percentage (%),18.2 
-2011,At risk of povery rate ,65 years and over ,Percentage (%),17.6 
-2012,At risk of povery rate ,65 years and over ,Percentage (%),17.3 
-2013,At risk of povery rate ,65 years and over ,Percentage (%),14.9 
-2014,At risk of povery rate ,65 years and over ,Percentage (%),17.0 
-2015,At risk of povery rate ,65 years and over ,Percentage (%),21.3 
-2016,At risk of povery rate ,65 years and over ,Percentage (%),23.9 
-2017,At risk of povery rate ,65 years and over ,Percentage (%),24.9 
-2018,At risk of povery rate ,65 years and over ,Percentage (%),25.4
+Year,Variable,Category,Unit of measure,Value
+2005,At risk of povery rate,Total ,Percentage (%),14.3
+2006,At risk of povery rate,Total ,Percentage (%),14.2 
+2007,At risk of povery rate,Total ,Percentage (%),15.1 
+2008,At risk of povery rate,Total ,Percentage (%),15.3 
+2009,At risk of povery rate,Total ,Percentage (%),14.9 
+2010,At risk of povery rate,Total ,Percentage (%),15.5 
+2011,At risk of povery rate,Total ,Percentage (%),15.6 
+2012,At risk of povery rate,Total ,Percentage (%),15.1 
+2013,At risk of povery rate,Total ,Percentage (%),15.8 
+2014,At risk of povery rate,Total ,Percentage (%),15.8 
+2015,At risk of povery rate,Total ,Percentage (%),16.6 
+2016,At risk of povery rate,Total ,Percentage (%),16.5 
+2017,At risk of povery rate,Total ,Percentage (%),16.7 
+2018,At risk of povery rate,Total ,Percentage (%),16.8 
+2005,At risk of povery rate,Males ,Percentage (%),13.9
+2006,At risk of povery rate,Males ,Percentage (%),13.5 
+2007,At risk of povery rate,Males ,Percentage (%),14.7 
+2008,At risk of povery rate,Males ,Percentage (%),13.9 
+2009,At risk of povery rate,Males ,Percentage (%),14.3 
+2010,At risk of povery rate,Males ,Percentage (%),14.8 
+2011,At risk of povery rate,Males ,Percentage (%),15.0 
+2012,At risk of povery rate,Males ,Percentage (%),14.4 
+2013,At risk of povery rate,Males ,Percentage (%),15.4 
+2014,At risk of povery rate,Males ,Percentage (%),15.7 
+2015,At risk of povery rate,Males ,Percentage (%),16.3 
+2016,At risk of povery rate,Males ,Percentage (%),16.5 
+2017,At risk of povery rate,Males ,Percentage (%),16.1 
+2018,At risk of povery rate,Males ,Percentage (%),15.6
+2005,At risk of povery rate,Females ,Percentage (%),14.8
+2006,At risk of povery rate,Females ,Percentage (%),14.9 
+2007,At risk of povery rate,Females ,Percentage (%),15.5 
+2008,At risk of povery rate,Females ,Percentage (%),16.7 
+2009,At risk of povery rate,Females ,Percentage (%),15.5 
+2010,At risk of povery rate,Females ,Percentage (%),16.2 
+2011,At risk of povery rate,Females ,Percentage (%),16.1 
+2012,At risk of povery rate,Females ,Percentage (%),15.8 
+2013,At risk of povery rate,Females ,Percentage (%),16.1 
+2014,At risk of povery rate,Females ,Percentage (%),16.0 
+2015,At risk of povery rate,Females ,Percentage (%),16.9 
+2016,At risk of povery rate,Females ,Percentage (%),16.5 
+2017,At risk of povery rate,Females ,Percentage (%),17.3 
+2018,At risk of povery rate,Females ,Percentage (%),18.1
+2005,At risk of povery rate,Less than 18 years,Percentage (%),17.6
+2006,At risk of povery rate,Less than 18 years,Percentage (%),17.6 
+2007,At risk of povery rate,Less than 18 years,Percentage (%),19.8 
+2008,At risk of povery rate,Less than 18 years,Percentage (%),20.4 
+2009,At risk of povery rate,Less than 18 years,Percentage (%),21.2 
+2010,At risk of povery rate,Less than 18 years,Percentage (%),22.1 
+2011,At risk of povery rate,Less than 18 years,Percentage (%),23.0 
+2012,At risk of povery rate,Less than 18 years,Percentage (%),23.1 
+2013,At risk of povery rate,Less than 18 years,Percentage (%),24.5 
+2014,At risk of povery rate,Less than 18 years,Percentage (%),24.6 
+2015,At risk of povery rate,Less than 18 years,Percentage (%),23.4 
+2016,At risk of povery rate,Less than 18 years,Percentage (%),20.9 
+2017,At risk of povery rate,Less than 18 years,Percentage (%),21.2 
+2018,At risk of povery rate,Less than 18 years,Percentage (%),21.4
+2005,At risk of povery rate,From 18 to 64 years ,Percentage (%),11.4
+2006,At risk of povery rate,From 18 to 64 years ,Percentage (%),11.2 
+2007,At risk of povery rate,From 18 to 64 years ,Percentage (%),12.6 
+2008,At risk of povery rate,From 18 to 64 years ,Percentage (%),12.0 
+2009,At risk of povery rate,From 18 to 64 years ,Percentage (%),12.1 
+2010,At risk of povery rate,From 18 to 64 years ,Percentage (%),13.1 
+2011,At risk of povery rate,From 18 to 64 years ,Percentage (%),13.1 
+2012,At risk of povery rate,From 18 to 64 years ,Percentage (%),12.4 
+2013,At risk of povery rate,From 18 to 64 years ,Percentage (%),13.5 
+2014,At risk of povery rate,From 18 to 64 years ,Percentage (%),13.1 
+2015,At risk of povery rate,From 18 to 64 years ,Percentage (%),13.4 
+2016,At risk of povery rate,From 18 to 64 years ,Percentage (%),13.3 
+2017,At risk of povery rate,From 18 to 64 years ,Percentage (%),13.2 
+2018,At risk of povery rate,From 18 to 64 years ,Percentage (%),13.3
+2005,At risk of povery rate,65 years and over ,Percentage (%),23.3
+2006,At risk of povery rate,65 years and over ,Percentage (%),23.5 
+2007,At risk of povery rate,65 years and over ,Percentage (%),20.3 
+2008,At risk of povery rate,65 years and over ,Percentage (%),24.3 
+2009,At risk of povery rate,65 years and over ,Percentage (%),19.7 
+2010,At risk of povery rate,65 years and over ,Percentage (%),18.2 
+2011,At risk of povery rate,65 years and over ,Percentage (%),17.6 
+2012,At risk of povery rate,65 years and over ,Percentage (%),17.3 
+2013,At risk of povery rate,65 years and over ,Percentage (%),14.9 
+2014,At risk of povery rate,65 years and over ,Percentage (%),17.0 
+2015,At risk of povery rate,65 years and over ,Percentage (%),21.3 
+2016,At risk of povery rate,65 years and over ,Percentage (%),23.9 
+2017,At risk of povery rate,65 years and over ,Percentage (%),24.9 
+2018,At risk of povery rate,65 years and over ,Percentage (%),25.4
