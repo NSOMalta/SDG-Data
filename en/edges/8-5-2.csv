@@ -1,1 +1,4 @@
 From,To
+Variable,Sex
+Sex,Age group
+Age group,Unit of measure

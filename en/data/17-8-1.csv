@@ -1,7 +1,61 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Variable,Age group,Sex,Unit of measure,Value
+2010,Internet use in the last 3 months,16-74,Total,Percentage (%),62
+2011,Internet use in the last 3 months,16-74,Total,Percentage (%),68
+2012,Internet use in the last 3 months,16-74,Total,Percentage (%),69
+2013,Internet use in the last 3 months,16-74,Total,Percentage (%),69
+2014,Internet use in the last 3 months,16-74,Total,Percentage (%),74
+2015,Internet use in the last 3 months,16-74,Total,Percentage (%),77
+2016,Internet use in the last 3 months,16-74,Total,Percentage (%),78
+2017,Internet use in the last 3 months,16-74,Total,Percentage (%),81
+2018,Internet use in the last 3 months,16-74,Total,Percentage (%),82
+2019,Internet use in the last 3 months,16-74,Total,Percentage (%),86
+2010,Internet use in the last 3 months,16-74,Males,Percentage (%),66
+2011,Internet use in the last 3 months,16-74,Males,Percentage (%),70
+2012,Internet use in the last 3 months,16-74,Males,Percentage (%),71
+2013,Internet use in the last 3 months,16-74,Males,Percentage (%),71
+2014,Internet use in the last 3 months,16-74,Males,Percentage (%),75
+2015,Internet use in the last 3 months,16-74,Males,Percentage (%),78
+2016,Internet use in the last 3 months,16-74,Males,Percentage (%),78
+2017,Internet use in the last 3 months,16-74,Males,Percentage (%),82
+2018,Internet use in the last 3 months,16-74,Males,Percentage (%),82
+2019,Internet use in the last 3 months,16-74,Males,Percentage (%),86
+2010,Internet use in the last 3 months,16-74,Females,Percentage (%),58
+2011,Internet use in the last 3 months,16-74,Females,Percentage (%),66
+2012,Internet use in the last 3 months,16-74,Females,Percentage (%),66
+2013,Internet use in the last 3 months,16-74,Females,Percentage (%),67
+2014,Internet use in the last 3 months,16-74,Females,Percentage (%),72
+2015,Internet use in the last 3 months,16-74,Females,Percentage (%),75
+2016,Internet use in the last 3 months,16-74,Females,Percentage (%),78
+2017,Internet use in the last 3 months,16-74,Females,Percentage (%),79
+2018,Internet use in the last 3 months,16-74,Females,Percentage (%),82
+2019,Internet use in the last 3 months,16-74,Females,Percentage (%),86
+2010,Internet use in the last 12 months,16-74,Total,Percentage (%),63
+2011,Internet use in the last 12 months,16-74,Total,Percentage (%),69
+2012,Internet use in the last 12 months,16-74,Total,Percentage (%),70
+2013,Internet use in the last 12 months,16-74,Total,Percentage (%),71
+2014,Internet use in the last 12 months,16-74,Total,Percentage (%),75
+2015,Internet use in the last 12 months,16-74,Total,Percentage (%),78
+2016,Internet use in the last 12 months,16-74,Total,Percentage (%),79
+2017,Internet use in the last 12 months,16-74,Total,Percentage (%),81
+2018,Internet use in the last 12 months,16-74,Total,Percentage (%),82
+2019,Internet use in the last 12 months,16-74,Total,Percentage (%),86
+2010,Internet use in the last 12 months,16-74,Males,Percentage (%),68
+2011,Internet use in the last 12 months,16-74,Males,Percentage (%),71
+2012,Internet use in the last 12 months,16-74,Males,Percentage (%),72
+2013,Internet use in the last 12 months,16-74,Males,Percentage (%),72
+2014,Internet use in the last 12 months,16-74,Males,Percentage (%),76
+2015,Internet use in the last 12 months,16-74,Males,Percentage (%),79
+2016,Internet use in the last 12 months,16-74,Males,Percentage (%),79
+2017,Internet use in the last 12 months,16-74,Males,Percentage (%),83
+2018,Internet use in the last 12 months,16-74,Males,Percentage (%),82
+2019,Internet use in the last 12 months,16-74,Males,Percentage (%),86
+2010,Internet use in the last 12 months,16-74,Females,Percentage (%),58
+2011,Internet use in the last 12 months,16-74,Females,Percentage (%),68
+2012,Internet use in the last 12 months,16-74,Females,Percentage (%),68
+2013,Internet use in the last 12 months,16-74,Females,Percentage (%),69
+2014,Internet use in the last 12 months,16-74,Females,Percentage (%),73
+2015,Internet use in the last 12 months,16-74,Females,Percentage (%),77
+2016,Internet use in the last 12 months,16-74,Females,Percentage (%),78
+2017,Internet use in the last 12 months,16-74,Females,Percentage (%),80
+2018,Internet use in the last 12 months,16-74,Females,Percentage (%),83
+2019,Internet use in the last 12 months,16-74,Females,Percentage (%),86

@@ -1,7 +1,169 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Variable,Category ,Unit of measure,Value
+2005,At risk of poverty or social exclusion ,Total ,Percentage (%),20.5 
+2006,At risk of poverty or social exclusion ,Total ,Percentage (%),19.5 
+2007,At risk of poverty or social exclusion ,Total ,Percentage (%),19.7 
+2008,At risk of poverty or social exclusion ,Total ,Percentage (%),20.1 
+2009,At risk of poverty or social exclusion ,Total ,Percentage (%),20.3 
+2010,At risk of poverty or social exclusion ,Total ,Percentage (%),21.2 
+2011,At risk of poverty or social exclusion ,Total ,Percentage (%),22.1 
+2012,At risk of poverty or social exclusion ,Total ,Percentage (%),23.1 
+2013,At risk of poverty or social exclusion ,Total ,Percentage (%),24.6 
+2014,At risk of poverty or social exclusion ,Total ,Percentage (%),23.9 
+2015,At risk of poverty or social exclusion ,Total ,Percentage (%),23.0 
+2016,At risk of poverty or social exclusion ,Total ,Percentage (%),20.3 
+2017,At risk of poverty or social exclusion ,Total ,Percentage (%),19.3 
+2018,At risk of poverty or social exclusion ,Total ,Percentage (%),19
+2005,At risk of poverty or social exclusion ,Males ,Percentage (%),18.9 
+2006,At risk of poverty or social exclusion ,Males ,Percentage (%),17.9 
+2007,At risk of poverty or social exclusion ,Males ,Percentage (%),18.6 
+2008,At risk of poverty or social exclusion ,Males ,Percentage (%),18.7 
+2009,At risk of poverty or social exclusion ,Males ,Percentage (%),19.1 
+2010,At risk of poverty or social exclusion ,Males ,Percentage (%),20.1 
+2011,At risk of poverty or social exclusion ,Males ,Percentage (%),20.9 
+2012,At risk of poverty or social exclusion ,Males ,Percentage (%),21.9 
+2013,At risk of poverty or social exclusion ,Males ,Percentage (%),23.8 
+2014,At risk of poverty or social exclusion ,Males ,Percentage (%),23.1 
+2015,At risk of poverty or social exclusion ,Males ,Percentage (%),22.2 
+2016,At risk of poverty or social exclusion ,Males ,Percentage (%),20.2 
+2017,At risk of poverty or social exclusion ,Males ,Percentage (%),18.5 
+2018,At risk of poverty or social exclusion ,Males ,Percentage (%),17.4
+2005,At risk of poverty or social exclusion ,Females ,Percentage (%),22.0 
+2006,At risk of poverty or social exclusion ,Females ,Percentage (%),21.1 
+2007,At risk of poverty or social exclusion ,Females ,Percentage (%),20.9 
+2008,At risk of poverty or social exclusion ,Females ,Percentage (%),21.5 
+2009,At risk of poverty or social exclusion ,Females ,Percentage (%),21.6 
+2010,At risk of poverty or social exclusion ,Females ,Percentage (%),22.4 
+2011,At risk of poverty or social exclusion ,Females ,Percentage (%),23.2 
+2012,At risk of poverty or social exclusion ,Females ,Percentage (%),24.3 
+2013,At risk of poverty or social exclusion ,Females ,Percentage (%),25.5 
+2014,At risk of poverty or social exclusion ,Females ,Percentage (%),24.7 
+2015,At risk of poverty or social exclusion ,Females ,Percentage (%),23.8 
+2016,At risk of poverty or social exclusion ,Females ,Percentage (%),20.4 
+2017,At risk of poverty or social exclusion ,Females ,Percentage (%),20.2 
+2018,At risk of poverty or social exclusion ,Females ,Percentage (%),20.6
+2005,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),23.3 
+2006,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),22.2 
+2007,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),23.9 
+2008,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),25.0 
+2009,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),26.5 
+2010,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),26.7 
+2011,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),27.8 
+2012,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),31.0 
+2013,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),33.0 
+2014,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),31.8 
+2015,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),28.4 
+2016,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),24.0 
+2017,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),23.0 
+2018,At risk of poverty or social exclusion ,Less than 18 years,Percentage (%),22.8
+2005,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),18.1 
+2006,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),17.4 
+2007,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),17.8 
+2008,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),17.5 
+2009,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),18.1 
+2010,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),19.6 
+2011,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),20.7 
+2012,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),21.1 
+2013,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),23.2 
+2014,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),21.8 
+2015,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),21.1 
+2016,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),17.7 
+2017,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),16.4 
+2018,At risk of poverty or social exclusion ,From 18 to 64 years ,Percentage (%),15.8
+2005,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),27.1 
+2006,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),25.7 
+2007,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),22.8 
+2008,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),26.0 
+2009,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),22.2 
+2010,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),21.7 
+2011,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),21.0 
+2012,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),22.3 
+2013,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),20.9 
+2014,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),23.5 
+2015,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),24.3 
+2016,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),26.0 
+2017,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),26.2 
+2018,At risk of poverty or social exclusion ,65 years and over ,Percentage (%),26.7
+2005,Severe Material Deprivation,Total ,Percentage (%),5.4 
+2006,Severe Material Deprivation,Total ,Percentage (%),3.9 
+2007,Severe Material Deprivation,Total ,Percentage (%),4.4 
+2008,Severe Material Deprivation,Total ,Percentage (%),4.3 
+2009,Severe Material Deprivation,Total ,Percentage (%),5.0 
+2010,Severe Material Deprivation,Total ,Percentage (%),6.5 
+2011,Severe Material Deprivation,Total ,Percentage (%),6.6 
+2012,Severe Material Deprivation,Total ,Percentage (%),9.2 
+2013,Severe Material Deprivation,Total ,Percentage (%),10.2 
+2014,Severe Material Deprivation,Total ,Percentage (%),10.3 
+2015,Severe Material Deprivation,Total ,Percentage (%),8.5 
+2016,Severe Material Deprivation,Total ,Percentage (%),4.4 
+2017,Severe Material Deprivation,Total ,Percentage (%),3.3 
+2018,Severe Material Deprivation,Total ,Percentage (%),3
+2005,Severe Material Deprivation,Males ,Percentage (%),5.2 
+2006,Severe Material Deprivation,Males ,Percentage (%),3.6 
+2007,Severe Material Deprivation,Males ,Percentage (%),4.0 
+2008,Severe Material Deprivation,Males ,Percentage (%),4.1 
+2009,Severe Material Deprivation,Males ,Percentage (%),4.8 
+2010,Severe Material Deprivation,Males ,Percentage (%),6.3 
+2011,Severe Material Deprivation,Males ,Percentage (%),6.4 
+2012,Severe Material Deprivation,Males ,Percentage (%),8.6 
+2013,Severe Material Deprivation,Males ,Percentage (%),10.1 
+2014,Severe Material Deprivation,Males ,Percentage (%),9.9 
+2015,Severe Material Deprivation,Males ,Percentage (%),8.5 
+2016,Severe Material Deprivation,Males ,Percentage (%),4.5 
+2017,Severe Material Deprivation,Males ,Percentage (%),3.2 
+2018,Severe Material Deprivation,Males ,Percentage (%),2.7
+2005,Severe Material Deprivation,Females ,Percentage (%),5.7 
+2006,Severe Material Deprivation,Females ,Percentage (%),4.2 
+2007,Severe Material Deprivation,Females ,Percentage (%),4.8 
+2008,Severe Material Deprivation,Females ,Percentage (%),4.6 
+2009,Severe Material Deprivation,Females ,Percentage (%),5.2 
+2010,Severe Material Deprivation,Females ,Percentage (%),6.6 
+2011,Severe Material Deprivation,Females ,Percentage (%),6.9 
+2012,Severe Material Deprivation,Females ,Percentage (%),9.7 
+2013,Severe Material Deprivation,Females ,Percentage (%),10.3 
+2014,Severe Material Deprivation,Females ,Percentage (%),10.6 
+2015,Severe Material Deprivation,Females ,Percentage (%),8.5 
+2016,Severe Material Deprivation,Females ,Percentage (%),4.3 
+2017,Severe Material Deprivation,Females ,Percentage (%),3.4 
+2018,Severe Material Deprivation,Females ,Percentage (%),3.4
+2005,Severe Material Deprivation,Less than 18 years,Percentage (%),6.1 
+2006,Severe Material Deprivation,Less than 18 years,Percentage (%),4.9 
+2007,Severe Material Deprivation,Less than 18 years,Percentage (%),6.4 
+2008,Severe Material Deprivation,Less than 18 years,Percentage (%),6.3 
+2009,Severe Material Deprivation,Less than 18 years,Percentage (%),7.2 
+2010,Severe Material Deprivation,Less than 18 years,Percentage (%),7.7 
+2011,Severe Material Deprivation,Less than 18 years,Percentage (%),7.7 
+2012,Severe Material Deprivation,Less than 18 years,Percentage (%),12.3 
+2013,Severe Material Deprivation,Less than 18 years,Percentage (%),12.7 
+2014,Severe Material Deprivation,Less than 18 years,Percentage (%),14.1 
+2015,Severe Material Deprivation,Less than 18 years,Percentage (%),10.6 
+2016,Severe Material Deprivation,Less than 18 years,Percentage (%),6.1 
+2017,Severe Material Deprivation,Less than 18 years,Percentage (%),5.1 
+2018,Severe Material Deprivation,Less than 18 years,Percentage (%),4
+2005,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),5.0 
+2006,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),3.5 
+2007,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),4.0 
+2008,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),4.0 
+2009,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),4.6 
+2010,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),6.4 
+2011,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),6.8 
+2012,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),8.9 
+2013,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),10.3 
+2014,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),9.7 
+2015,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),8.8 
+2016,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),4.2 
+2017,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),3.1 
+2018,Severe Material Deprivation,From 18 to 64 years ,Percentage (%),2.8 
+2005,Severe Material Deprivation,65 years and over ,Percentage (%),6.3 
+2006,Severe Material Deprivation,65 years and over ,Percentage (%),4.4 
+2007,Severe Material Deprivation,65 years and over ,Percentage (%),3.1 
+2008,Severe Material Deprivation,65 years and over ,Percentage (%),3.1 
+2009,Severe Material Deprivation,65 years and over ,Percentage (%),4.1 
+2010,Severe Material Deprivation,65 years and over ,Percentage (%),5.0 
+2011,Severe Material Deprivation,65 years and over ,Percentage (%),4.7 
+2012,Severe Material Deprivation,65 years and over ,Percentage (%),6.4 
+2013,Severe Material Deprivation,65 years and over ,Percentage (%),7.1 
+2014,Severe Material Deprivation,65 years and over ,Percentage (%),8.1 
+2015,Severe Material Deprivation,65 years and over ,Percentage (%),5.0 
+2016,Severe Material Deprivation,65 years and over ,Percentage (%),3.6 
+2017,Severe Material Deprivation,65 years and over ,Percentage (%),2.2 
+2018,Severe Material Deprivation,65 years and over ,Percentage (%),3
