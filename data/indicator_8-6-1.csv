@@ -1,7 +1,31 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Variable,Sex,Unit of measure,Value
+2009,Young people neither in employment nor in education and training ,Total,Percentage (%),9.9
+2010,Young people neither in employment nor in education and training ,Total,Percentage (%),9.5
+2011,Young people neither in employment nor in education and training ,Total,Percentage (%),10.2
+2012,Young people neither in employment nor in education and training ,Total,Percentage (%),10.8
+2013,Young people neither in employment nor in education and training ,Total,Percentage (%),9.9
+2014,Young people neither in employment nor in education and training ,Total,Percentage (%),10.3
+2015,Young people neither in employment nor in education and training ,Total,Percentage (%),10.5
+2016,Young people neither in employment nor in education and training ,Total,Percentage (%),8.8
+2017,Young people neither in employment nor in education and training ,Total,Percentage (%),8.6
+2018,Young people neither in employment nor in education and training ,Total,Percentage (%),7.3
+2009,Young people neither in employment nor in education and training ,Males,Percentage (%),9.4
+2010,Young people neither in employment nor in education and training ,Males,Percentage (%),8.2
+2011,Young people neither in employment nor in education and training ,Males,Percentage (%),9.7
+2012,Young people neither in employment nor in education and training ,Males,Percentage (%),10.2
+2013,Young people neither in employment nor in education and training ,Males,Percentage (%),9.7
+2014,Young people neither in employment nor in education and training ,Males,Percentage (%),8.8
+2015,Young people neither in employment nor in education and training ,Males,Percentage (%),9.3
+2016,Young people neither in employment nor in education and training ,Males,Percentage (%),6.9
+2017,Young people neither in employment nor in education and training ,Males,Percentage (%),8.4
+2018,Young people neither in employment nor in education and training ,Males,Percentage (%),6.8
+2009,Young people neither in employment nor in education and training ,Females,Percentage (%),10.4
+2010,Young people neither in employment nor in education and training ,Females,Percentage (%),10.9
+2011,Young people neither in employment nor in education and training ,Females,Percentage (%),10.7
+2012,Young people neither in employment nor in education and training ,Females,Percentage (%),11.5
+2013,Young people neither in employment nor in education and training ,Females,Percentage (%),10.1
+2014,Young people neither in employment nor in education and training ,Females,Percentage (%),11.9
+2015,Young people neither in employment nor in education and training ,Females,Percentage (%),11.9
+2016,Young people neither in employment nor in education and training ,Females,Percentage (%),10.8
+2017,Young people neither in employment nor in education and training ,Females,Percentage (%),8.8
+2018,Young people neither in employment nor in education and training ,Females,Percentage (%),7.8
