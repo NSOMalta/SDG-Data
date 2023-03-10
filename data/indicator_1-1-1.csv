@@ -1,4 +1,4 @@
-SeriesDescription,GeoAreaCode,TimePeriod,Value,Time_Detail,BasePeriod,Age,Location,Sex
+Description,GeoAreaCode,TimePeriod,Value,Time_Detail,BasePeriod,Age,Location,Sex
 Proportion of population below international poverty line (%),470,2006,0.4683,2006,2017,ALLAGE,ALLAREA,MALE
 Proportion of population below international poverty line (%),470,2006,0.63661,2006,2017,ALLAGE,ALLAREA,FEMALE
 Proportion of population below international poverty line (%),470,2006,1.52261,2006,2017,65+,ALLAREA,BOTHSEX
